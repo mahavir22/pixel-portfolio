@@ -55,6 +55,7 @@ export default {
           primary: "hsl(var(--glow-primary))",
           accent: "hsl(var(--glow-accent))",
         },
+        success: "hsl(var(--success))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
