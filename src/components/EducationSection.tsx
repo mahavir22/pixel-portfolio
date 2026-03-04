@@ -30,7 +30,7 @@ const EducationSection = () => (
             } flex-row`}
           >
             {/* Dot */}
-            <div className="absolute left-6 md:left-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-primary shadow-[0_0_12px_hsl(175_80%_50%/0.5)] z-10" />
+            <div className="absolute left-6 md:left-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-primary shadow-[0_0_12px_hsl(217_90%_60%/0.5)] z-10" />
 
             <div className={`ml-14 md:ml-0 md:w-[45%] ${i % 2 === 0 ? "md:pr-12 md:text-right" : "md:pl-12"}`}>
               <div className="glass-card rounded-lg p-5 transition-all duration-300">
